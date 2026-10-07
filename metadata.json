@@ -1,0 +1,6 @@
+{
+  "name": "Neo Pizza & Cafe Menu",
+  "description": "Sleek, responsive digital menu for Neo Pizza & Cafe, a premium pure vegetarian establishment specializing in artisanal wood-fired Neo-Politan style pizzas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
